@@ -1,5 +1,12 @@
-K11418 Materials. 
+# K1418 Materials
 
-Website -> Is the current Kingdom1418.com Website
-StatTracker -> UptoDate Code for StatTracker
-DataUpdater -> Converts the data into Firebase database
+This repository contains various components for the Kingdom1418.com project.
+
+## Contents
+
+- **Website**: The current codebase for [Kingdom1418.com](https://kingdom1418.com) website.
+- **StatTracker**: Up-to-date code for the StatTracker.
+- **DataUpdater**: Tools to convert data into the Firebase database.
+
+## Directory Structure
+
