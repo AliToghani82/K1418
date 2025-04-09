@@ -39,4 +39,16 @@ export interface PlayerAllTime {
     KP_OCT_23: number;
     TK_OCT_23: number;
     TD_OCT_23: number;
+    TD: number;
+    TD_4: number;
+    TD_5: number;
+    TD_7: number;
+    TK: number;
+    TK_4: number;
+    TK_5: number;
+    TK_7: number;
+    TKP: number;
+    TKP_4: number;
+    TKP_5: number;
+    TKP_7: number;
 }

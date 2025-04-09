@@ -1,0 +1,25 @@
+{
+  "short_name": "Kingdom1418",
+  "name": "Kingdom 1418 Website",
+  "icons": [
+    {
+      "src": "img3.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "img1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "img1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

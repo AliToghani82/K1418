@@ -38,12 +38,17 @@
     color: var(--text-base);
     text-decoration: none;
     padding: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    display: inline-block; /* Ensure buttons behave like inline elements similar to <a> */
 }
 
 .stats2-option-button.active {
     background-color: var(--accent);
     color: white;
 }
+
 
 .underline {
     height: 2px;

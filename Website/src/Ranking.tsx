@@ -137,7 +137,7 @@ export class Ranking extends React.Component<{}, AppState> {
     fetchAllPlayerData = async () => {
         try {
             const db = firebase.firestore();
-            const playersCollection = db.collection('JUN_2024_KVK');
+            const playersCollection = db.collection('SEP_2024_KVK');
             const querySnapshot = await playersCollection.get();
             const playerDataArray: PlayerData[] = [];
 
